@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A U1 Student studying CS and Bio at McGill University</h3>
+<h3 align="center">A sophomore studying Computational Biology at Carnegie Mellon University</h3>
 
-- 📫 How to reach me **kwon.cha@mail.mcgill.ca**
+- 📫 How to reach me **kwonryuc@andrew.cmu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
